@@ -1,0 +1,14 @@
+pandas
+scikit-learn
+matplotlib
+numpy
+mlxtend
+nltk
+textblob
+scipy
+requests
+bs4
+torch
+torchvision
+tqdm
+gensim
